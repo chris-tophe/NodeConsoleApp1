@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TypesModules", "NodeConsoleApp1\TypesModules.esproj", "{A76B66D8-E008-4E4C-843C-B9484BE2FF7A}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExpressServer", "ExpressServer\ExpressServer.njsproj", "{77D38D29-11F8-4BA4-9783-054787E3526C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{A76B66D8-E008-4E4C-843C-B9484BE2FF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A76B66D8-E008-4E4C-843C-B9484BE2FF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A76B66D8-E008-4E4C-843C-B9484BE2FF7A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{77D38D29-11F8-4BA4-9783-054787E3526C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D38D29-11F8-4BA4-9783-054787E3526C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D38D29-11F8-4BA4-9783-054787E3526C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D38D29-11F8-4BA4-9783-054787E3526C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
